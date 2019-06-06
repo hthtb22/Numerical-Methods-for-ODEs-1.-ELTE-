@@ -1,4 +1,4 @@
-# Numerical Methods for ODEs 1. (Eötvös Loránd University)
+# Numerical Methods for ODEs 1.
 
 Author: Imre Fekete (Department of Applied Analysis and Computational Mathematics, Eötvös Loránd University)
 <br>
