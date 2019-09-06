@@ -10,7 +10,7 @@ Options for running the Jupyter notebooks
 (http://jupyter.org/install.html):
   1) Install Anaconda (Jupyter and Python, OS: Windows, Linux or MacOS)
   2) Install MATLAB or Octave
-  3) Install the kernel of MTALAB or Octave
+  3) Install the kernel of MATLAB or Octave
 + using COCALC (Collaborative Calculation in the Cloud, https://cocalc.com/)
 <br>
 
